@@ -1,0 +1,9 @@
+Find the online version of this document here: https://fiddler2.com/r/?id=credits
+Beyond the ~40K lines of C# I wrote, Fiddler depends on the work of a number of other companies and individuals:
+Some of Fiddler's icons were generously provided under Creative Commons from the FatCow.com free icon set. 
+Fiddler is installed using the excellent and freeware NSIS Installer. 
+Fiddler's HexView inspector is based around a forked (early version) of what is now the HexEditor control, open-sourced on SourceForge.  http://sourceforge.net/projects/hexbox/
+Fiddler uses the commercial Xceed Libraries for compressing SAZ files and compressing/decompressing web traffic. http://xceed.com/
+The Quantum Whale Editor.NET component is used for the SyntaxView Inspector and FiddlerScript Editors.  http://www.qwhale.net/products/editor.htm
+
+JSON Support Copyright (c)2008 Patrick van Bergen - Licensed under the MIT License http://www.opensource.org/licenses/mit-license.php

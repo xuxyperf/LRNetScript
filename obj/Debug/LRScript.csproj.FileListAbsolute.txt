@@ -1,0 +1,13 @@
+E:\C#\LRNetScript\LRNetScript\bin\Debug\Fiddler.exe
+E:\C#\LRNetScript\LRNetScript\bin\Debug\Xceed.FileSystem.dll
+E:\C#\LRNetScript\LRNetScript\bin\Debug\Xceed.Zip.dll
+E:\C#\LRNetScript\LRNetScript\bin\Debug\Xceed.Compression.Formats.dll
+E:\C#\LRNetScript\LRNetScript\bin\Debug\Xceed.Compression.dll
+E:\C#\LRNetScript\LRNetScript\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\LRNetScript\LRNetScript\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\C#\LRNetScript\LRNetScript\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\C#\LRNetScript\LRNetScript\bin\Debug\LRScript.dll
+E:\C#\LRNetScript\LRNetScript\bin\Debug\LRScript.pdb
+E:\C#\LRNetScript\LRNetScript\obj\Debug\LRScript.dll
+E:\C#\LRNetScript\LRNetScript\obj\Debug\LRScript.pdb
+E:\C#\LRNetScript\LRNetScript\obj\Debug\LRScript.NetScriptForm.resources

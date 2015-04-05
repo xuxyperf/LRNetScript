@@ -1,0 +1,1 @@
+css|text/css,js|application/x-javascript,jpg|image/jpeg,gif|image/gif,png|text/plain,jsp|text/html
